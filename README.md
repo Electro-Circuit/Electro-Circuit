@@ -13,4 +13,5 @@ This platform also have other social media platforms you can find below.
 - [**Tuya_IoT_Platform**](https://github.com/Electro-Circuit/Tuya_IoT_Platform)
 
 
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=mustakim300&layout=compact)
+![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=Electro-Circuit&layout=compact)
+
