@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Please Find all work repository. If you found any difficulty in something which I have created feel free to reach me out [@mustakim300.](https://github.com/mustakim300/)
+Please Find all work repository.
 
 This platform also have other social media platforms you can find below.
 
